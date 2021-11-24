@@ -22,7 +22,7 @@ dependencies:
   visibility_detector: ^0.2.0
   path_provider: ^1.1.0
   collection: ^1.15.0
-  xml: ^5.3.0
+  xml: ^4.3.0
 
 dev_dependencies:
   flutter_test:
